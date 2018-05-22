@@ -5,10 +5,10 @@
 ##### Sign up on AfricasTalking and get an API Key, create an app and send a message from the app to a mobile phone (in this case, simulator).
 
 ## Resources
-[API Reference](http://docs.africastalking.com/)
-[Helper libraries](https://github.com/AfricasTalkingLtd)
-[Sandbox](https://account.africastalking.com/apps/sandbox)
-[Simulator](https://simulator.africastalking.com:1517/)
+- [API Reference](http://docs.africastalking.com/)
+- [Helper libraries](https://github.com/AfricasTalkingLtd)
+- [Sandbox](https://account.africastalking.com/apps/sandbox)
+- [Simulator](https://simulator.africastalking.com:1517/)
 
 ## Tips
 ###### After signup, navigate to the sandbox(big orange button) which you’ll use to build your test app. Your API key is in settings. A link to the simulator is also in the sandbox.
